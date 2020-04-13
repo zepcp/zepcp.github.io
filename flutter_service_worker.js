@@ -3,11 +3,11 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "/index.html": "cd6ef4ff837c9fb9e0da59e7830b219a",
 "/app_icon.jpg": "8fe7131d104c1d46dbeec473364425fa",
-"/main.dart.js": "3271e974b5a35f4a37558311ef4666b4",
+"/main.dart.js": "e9e382eb5800c098e0c8a20e948bbe4c",
 "/manifest.json": "e0a8c1565eb5b6466e815857091fe48c",
 "/assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "/assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
-"/assets/LICENSE": "d6266310754b45e3bb6d8a7b304a8cdc",
+"/assets/LICENSE": "073679045b3f44b47c261c97843dc832",
 "/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16"
 };
